@@ -1,0 +1,22 @@
+aside {
+  display: none;
+}
+
+h1 {
+  color: #ff0000;
+  text-transform: uppercase; 
+  text-align: center
+}
+
+h2 {
+  color: #ff0000; 
+  text-transform: uppercase;
+}
+
+section {
+  background-color: #D3D3D3;
+}
+
+header {
+  background-color: #D3D3D3;
+}
